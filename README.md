@@ -1,5 +1,5 @@
-# CPP-Route-Planning
-C++ Project with modern features to visualize path between two points on real map using A* search algorithm and IO2D visualization library.
+# CPP Route Planning
+C++ Project with modern features to visualize path finding between two points on real map using A* search algorithm and IO2D visualization library.
 
 ![Example](
 https://raw.githubusercontent.com/Mostafa-ashraf19/CPP-Route-Planning/master/Images/Screenshot%20from%202020-05-19%2003-39-02.png
